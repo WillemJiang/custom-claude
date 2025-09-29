@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/jiangning/.claude/**)",
+      "WebSearch",
+      "Bash(claude mcp:*)",
+      "Read(//Users/jiangning/**)",
+      "mcp__filesystem__list_directory",
+      "Bash(npx:*)",
+      "mcp__tavily__tavily-search",
+      "mcp__sequential-thinking__sequentialthinking"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "enabledMcpjsonServers": [
+    "tavily",
+    "sequential-thinking"
+  ]
+}
