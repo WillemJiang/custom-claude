@@ -79,7 +79,7 @@ This repository extends Claude Code's native capabilities through custom agents 
           }
         }
       }
-  }
+   }
    ```
 
 3. **Set Permissions**
