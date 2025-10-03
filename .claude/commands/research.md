@@ -89,7 +89,7 @@ personas: [deep-research-agent]
 - Save reports to `claudedocs/research_[topic]_[timestamp].md`
 - Include executive summary
 - Provide confidence levels
-- List all sources with citations
+- List all sources with URLs as citations
 
 ## Examples
 ```
