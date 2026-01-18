@@ -86,6 +86,7 @@ personas: [deep-research-agent]
 - **Serena**: Research session persistence
 
 ## Output Standards
+- use date command to generate timestamp
 - Save reports to `claudedocs/research_[topic]_[timestamp].md`
 - Include executive summary
 - Provide confidence levels
